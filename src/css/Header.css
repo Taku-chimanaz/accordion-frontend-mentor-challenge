@@ -1,0 +1,12 @@
+header {
+    width: 100vw;
+    height: 35vh;
+    background-image: url('./../images/background-pattern-desktop.svg');
+}
+
+@media (max-width: 375px) {
+
+    header {
+        background-image: url('./../images/background-pattern-mobile.svg');
+    }
+}
