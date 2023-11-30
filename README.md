@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on Github](https://github.com/Taku-chimanaz/accordion-frontend-mentor-challenge)
+- Live Site URL: [Live solution](https://accordion-solution.netlify.app/)
 
 ## My process
 
